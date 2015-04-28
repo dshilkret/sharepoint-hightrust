@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>c:\hightrustapp</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/HelloWorldHTAWeb.dll">
+      <publishTime>04/05/2015 11:19:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.dll">
+      <publishTime>07/28/2014 15:16:51</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Extensions.dll">
+      <publishTime>08/30/2012 23:20:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.dll">
+      <publishTime>01/23/2014 05:53:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Runtime.dll">
+      <publishTime>01/23/2014 05:53:22</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/05/2015 11:14:31</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/05/2015 11:14:43</publishTime>
+    </File>
+    <File Include="Pages/Default.aspx">
+      <publishTime>04/05/2015 11:14:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>04/05/2015 11:14:43</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>04/05/2015 11:14:43</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>04/05/2015 11:14:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/05/2015 11:19:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

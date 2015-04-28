@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldHTA", "HelloWorldHTA.csproj", "{C2032505-DA36-438D-A54C-58836D948442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldHTAWeb", "..\HelloWorldHTAWeb\HelloWorldHTAWeb.csproj", "{6474EF22-232A-4C7D-A300-F2FDA41B047B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2032505-DA36-438D-A54C-58836D948442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2032505-DA36-438D-A54C-58836D948442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2032505-DA36-438D-A54C-58836D948442}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C2032505-DA36-438D-A54C-58836D948442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2032505-DA36-438D-A54C-58836D948442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2032505-DA36-438D-A54C-58836D948442}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6474EF22-232A-4C7D-A300-F2FDA41B047B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6474EF22-232A-4C7D-A300-F2FDA41B047B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6474EF22-232A-4C7D-A300-F2FDA41B047B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6474EF22-232A-4C7D-A300-F2FDA41B047B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
