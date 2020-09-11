@@ -1,0 +1,5 @@
+C:\Users\dshilkret\Documents\GitHub\sharepoint-hightrust\HelloWorldHTA\bin\Debug\HelloWorldHTA.pdb
+C:\Users\dshilkret\Documents\GitHub\sharepoint-hightrust\HelloWorldHTA\obj\Debug\HelloWorldHTA.csprojAssemblyReference.cache
+C:\Users\dshilkret\Documents\GitHub\sharepoint-hightrust\HelloWorldHTA\obj\Debug\HelloWorldHTA.csproj.CoreCompileInputs.cache
+C:\Users\dshilkret\Documents\GitHub\sharepoint-hightrust\HelloWorldHTA\obj\Debug\HelloWorldHTA.dll
+C:\Users\dshilkret\Documents\GitHub\sharepoint-hightrust\HelloWorldHTA\obj\Debug\HelloWorldHTA.pdb

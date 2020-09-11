@@ -1,0 +1,2 @@
+C:\Users\dshilkret\Documents\GitHub\sharepoint-hightrust\HelloWorldHTAWeb\obj\Debug\HelloWorldHTAWeb.csprojAssemblyReference.cache
+C:\Users\dshilkret\Documents\GitHub\sharepoint-hightrust\HelloWorldHTAWeb\obj\Debug\HelloWorldHTAWeb.csproj.CoreCompileInputs.cache
